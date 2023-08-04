@@ -1,0 +1,16 @@
+hookpath: /custom-webhook
+hookport: 2002
+hooksecret: yoursecret
+whitelist:
+ - graphics/pastel
+ - graphics/viu
+ - irc/birch
+ - irc/komanda-cli
+ - misc/broot
+ - net-im/tut
+ - sysutils/onefetch
+ - sysutils/pfetch
+ - x11-fonts/victor-mono-ttf
+ - x11-wm/berry
+ - x11/jgmenu
+ - x11/xob
